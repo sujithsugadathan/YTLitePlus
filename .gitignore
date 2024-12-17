@@ -2,7 +2,6 @@
 .DS_Store
 packages/
 tmp/
-!Tweaks/YTLite/.gitkeep
 Resources/
-*.ipa
+.ipa
 .vscode
